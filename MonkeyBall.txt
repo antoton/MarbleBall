@@ -1,0 +1,16 @@
+MonkeyBall:
+
+ToDo:
+	Models
+	Levels (assets)
+	Shooting integraten
+	Enemies die op u shooten
+	PowerUps (die uit ander objecten komen?)
+	Slowdown powerup
+
+	
+Levels:	Get to the end
+	Defeat all enemies
+	Live for X seconds
+
+
