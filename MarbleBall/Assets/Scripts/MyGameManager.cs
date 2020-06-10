@@ -7,12 +7,14 @@ public class MyGameManager : MonoBehaviour
     public GameObject player;
     public GameObject mainCanvas;
     public GameObject gameOverCanvas;
+    public GameObject nextLevelCanvas;
 
     private Health healthPlayer;
 
     public enum GameStates {
         Playing,
-        GameOver
+        GameOver,
+        Completed
     }
     public GameStates gameState = GameStates.Playing;
     // Start is called before the first frame update
@@ -38,6 +40,11 @@ public class MyGameManager : MonoBehaviour
                     gameOverCanvas.SetActive(true);
                 }
                 break;
+            case GameStates.Completed: 
+                mainCanvas.SetActive(false);
+                nextLevelCanvas.SetActive(true);
+                break;
+                     
         }
     }
 }
