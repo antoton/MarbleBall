@@ -112,10 +112,10 @@ MonoBehaviour:
     y: 30
     width: 1792
     height: 954
-  m_MinSize: {x: 678, y: 492}
+  m_MinSize: {x: 677, y: 492}
   m_MaxSize: {x: 14001, y: 14042}
   vertical: 0
-  controlID: 68
+  controlID: 109
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -137,10 +137,10 @@ MonoBehaviour:
     y: 0
     width: 1425
     height: 954
-  m_MinSize: {x: 403, y: 492}
+  m_MinSize: {x: 402, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 69
+  controlID: 110
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -162,10 +162,10 @@ MonoBehaviour:
     y: 0
     width: 1425
     height: 683
-  m_MinSize: {x: 403, y: 221}
-  m_MaxSize: {x: 8003, y: 4021}
+  m_MinSize: {x: 402, y: 221}
+  m_MaxSize: {x: 8002, y: 4021}
   vertical: 0
-  controlID: 70
+  controlID: 111
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -185,8 +185,8 @@ MonoBehaviour:
     y: 0
     width: 296
     height: 683
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -433,9 +433,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 5.4613094, y: -16.379906, z: 10.652685}
+    m_Target: {x: 1092.9052, y: 739.0966, z: 90.340454}
     speed: 2
-    m_Value: {x: 5.4613094, y: -16.379906, z: 10.652685}
+    m_Value: {x: 1092.9052, y: 739.0966, z: 90.340454}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -481,13 +481,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.31209028, y: -0.53833455, z: 0.22440444, w: 0.7501322}
+    m_Target: {x: 0.13163012, y: 0.0014180822, z: 0.0001270829, w: 0.991429}
     speed: 2
-    m_Value: {x: 0.3120497, y: -0.5382646, z: 0.22437526, w: 0.75003463}
+    m_Value: {x: 0.13161302, y: 0.0014178979, z: 0.00012706638, w: 0.99130017}
   m_Size:
-    m_Target: 15.491361
+    m_Target: 872.1106
     speed: 2
-    m_Value: 16.37167
+    m_Value: 872.1106
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -541,9 +541,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: e625fbff
-      m_LastClickedID: -317978
-      m_ExpandedIDs: de2dfbff346bfbff566bfbffba71fbffce71fbffda71fbffde80fbff0081fbff6487fbff7887fbff8487fbffd27ffcff3a46feff3af3feffac05ffff500cffff1e14ffff821fffff1657ffff7659ffff34fbffffecef00008af000001af1000082f10000bef1000020f20000c68802005eb00200bab9020034740300d2740300247503006275030068760300
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: a045ffffb052ffff4c68ffff3876ffff9e82ffffd882ffffbe8fffffa8a5ffff8caaffff62abffff78b6ffff10c1ffffc4c6ffffeccbfffffccfffff08ebffffb8efffff34fbffff6e430000a25900004e5a0000cc5f000096650000327200007a7c0000847c00009e7c0000c07c0000f2890000508a00009a8c0000c693000010960000929a0000aaa00000cca00000c0a600000aa90000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -632,34 +632,34 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/PathCreator/Examples
+    - Assets/Scenes
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/PathCreator/Examples
+  - Assets/Scenes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: /Users/jensuenk/Documents/School/2EA2/3D Game Programming/MarbleBall/MarbleBall
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 366}
-    m_SelectedIDs: de3d0000
-    m_LastClickedID: 15838
-    m_ExpandedIDs: 00000000dc3d0000de3d0000e03d0000e23d0000e43d0000e63d0000e83d0000ea3d0000ec3d0000ee3d0000fa3d0000003e0000083e000000ca9a3b
+    scrollPos: {x: 0, y: 202}
+    m_SelectedIDs: b4420000
+    m_LastClickedID: 17076
+    m_ExpandedIDs: 00000000a4420000a6420000a8420000aa420000ac420000ae420000b0420000b2420000b4420000b6420000ce42000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: epyphany
-      m_OriginalName: epyphany
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 15872
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 10}
     m_SearchString: 
@@ -673,7 +673,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000dc3d0000de3d0000e03d0000e23d0000e43d0000e63d0000e83d0000ea3d0000ec3d0000ee3d0000
+    m_ExpandedIDs: 00000000a4420000a6420000a8420000aa420000ac420000ae420000b0420000b2420000b4420000b6420000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -793,53 +793,3 @@ MonoBehaviour:
   m_PreviewWindow: {fileID: 0}
   m_LastInspectedObjectInstanceID: -1
   m_LastVerticalScrollValue: 0
---- !u!114 &20
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 12059, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: 
-  m_EditorClassIdentifier: UnityEditor:UnityEditor.Experimental.TerrainAPI:PaintTextureTool
-  m_MinSize: {x: 100, y: 100}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_TitleContent:
-    m_Text: Failed to load
-    m_Image: {fileID: 0}
-    m_Tooltip: 
-  m_Pos:
-    serializedVersion: 2
-    x: 0
-    y: 0
-    width: 320
-    height: 550
-  m_ViewDataDictionary: {fileID: 0}
---- !u!114 &21
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 12059, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: 
-  m_EditorClassIdentifier: UnityEditor:UnityEditor.Experimental.TerrainAPI:SetHeightTool
-  m_MinSize: {x: 100, y: 100}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_TitleContent:
-    m_Text: Failed to load
-    m_Image: {fileID: 0}
-    m_Tooltip: 
-  m_Pos:
-    serializedVersion: 2
-    x: 0
-    y: 0
-    width: 320
-    height: 550
-  m_ViewDataDictionary: {fileID: 0}

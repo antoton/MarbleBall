@@ -5,6 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class MainMenu : MonoBehaviour
 {
+    public int lastLevel = 2;
     public void PlayGame()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
@@ -21,13 +22,17 @@ public class MainMenu : MonoBehaviour
 
     public void NextLevel() 
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        if (lastLevel >= SceneManager.GetActiveScene().buildIndex)
+            ShowMainMenu();
+        else 
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
 
     public void QuitGame()
     {
         Debug.Log("Quited game");
         
+        // For debug mode
         //UnityEditor.EditorApplication.isPlaying = false;
         Application.Quit();
     }
