@@ -573,7 +573,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be459cd3d2ca148dcb3298d9c62df67e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastLevel: 2
 --- !u!4 &123776399 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4573208167439778, guid: aeffd1ccb00824283a1f58e99e6cdca3,
@@ -2635,7 +2634,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: -701.9381, w: -116.8465}
   m_textInfo:
     textComponent: {fileID: 392270225}
-    characterCount: 10
+    characterCount: 9
     spriteCount: 0
     spaceCount: 1
     wordCount: 2
@@ -9341,7 +9340,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be459cd3d2ca148dcb3298d9c62df67e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastLevel: 2
 --- !u!1 &1399418718 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1115668945514340, guid: 82b53386f30c7457a954e202207c2a7a,
